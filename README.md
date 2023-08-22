@@ -36,32 +36,32 @@ levels and recommendations.
 2. **What is the difference between black box, white box, and gray box penetration
 testing?**
   
-The main differences between black box, white box, and gray box penetration
-testing are:
-Black Box Testing:
-
-- Tester has no knowledge of the internal systems and networks.
-- Models the perspective of an external attacker.
-- Involves actively probing and scanning the target to discover vulnerabilities.
-- Most realistic assessment of external security posture.
-
-White Box Testing:
-
-- Tester has full knowledge of internal systems, networks and infrastructure.
-- Provided architecture diagrams, credentials, source code etc.
-- Models the perspective of an insider.
-- Able to test for vulnerabilities deep in the infrastructure.
-
-Gray Box Testing:
-
-- Tester has some knowledge of internal systems and networks.
-- Provided partial information, credentials, access.
-- Models an attacker with internal information but incomplete access.
-- A hybrid approach balancing realism with exploitability.
-
-In summary, black box testing focuses on outward-facing security, white box
-testing evaluates internal security, while gray box testing falls somewhere in
-between the two.
+  The main differences between black box, white box, and gray box penetration
+  testing are:
+  Black Box Testing:
+  
+  - Tester has no knowledge of the internal systems and networks.
+  - Models the perspective of an external attacker.
+  - Involves actively probing and scanning the target to discover vulnerabilities.
+  - Most realistic assessment of external security posture.
+  
+  White Box Testing:
+  
+  - Tester has full knowledge of internal systems, networks and infrastructure.
+  - Provided architecture diagrams, credentials, source code etc.
+  - Models the perspective of an insider.
+  - Able to test for vulnerabilities deep in the infrastructure.
+  
+  Gray Box Testing:
+  
+  - Tester has some knowledge of internal systems and networks.
+  - Provided partial information, credentials, access.
+  - Models an attacker with internal information but incomplete access.
+  - A hybrid approach balancing realism with exploitability.
+  
+  In summary, black box testing focuses on outward-facing security, white box
+  testing evaluates internal security, while gray box testing falls somewhere in
+  between the two.
 
 3. **How do you ensure that you are keeping up-to-date with the latest security
 threats and vulnerability discoveries?**
