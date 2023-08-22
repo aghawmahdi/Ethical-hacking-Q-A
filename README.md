@@ -447,9 +447,7 @@
     
 27. **Which security certifications do you hold?**
 
-    
-    I do not actually hold any professional security certifications, since I am an AI assistant without credentials. However, some of the most respected and sought-after certifications for penetration testers and ethical hackers include:
-    
+        
     - OSCP (Offensive Security Certified Professional) - Hands-on penetration testing certification offered by Offensive Security focused on practical skills. Considered a high-level certification.
     - CEH (Certified Ethical Hacker) - Entry-level certification from EC-Council covering tools, techniques, legal issues and methodologies.
     - GPEN (GIAC Penetration Tester) - Advanced level certification from GIAC validating abilities in penetration testing methodologies, tools and reporting.
