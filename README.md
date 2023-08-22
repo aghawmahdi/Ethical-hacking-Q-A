@@ -792,7 +792,7 @@
     - Be careful about what information you share online: Do not share your passwords or other sensitive information with anyone you do not trust.
     - Be aware of the risks of public Wi-Fi: Public Wi-Fi networks are often not secure, so it is best to avoid using them for sensitive transactions.
     - If you think that you have been a victim of a CSRF attack, immediately change your passwords and contact the website or application that was compromised.
-    ****
+    
 47. **How do you go about staying anonymous while conducting a penetration test?**
 
     
@@ -814,6 +814,7 @@
     - Use a different device: If you are really concerned about anonymity, you can use a different device, such as a laptop or tablet, for your penetration testing activities.
     - Don't be afraid to ask for help: If you are not sure how to stay anonymous, there are a number of
     resources available to help you. You can find information online or talk to a security professional.
+
 48. **How would you test for race conditions in a web application?**
 
     
